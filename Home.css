@@ -1,0 +1,7 @@
+.Navigation {
+  background-color: rgb(67, 65, 65);
+  color: white;
+  padding: 7px;
+  display: flex;
+  justify-content: flex-start;
+}
